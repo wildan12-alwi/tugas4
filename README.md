@@ -12,7 +12,7 @@ Program akan memanggil data nama,nim,tugas,uts,uas. Lalu program akan meletakan 
 8. Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data sesuai dengan index dari variabel "i".
 tugas10.3+uts10.35+uas1*0.35
 9. Lalu Program akan mengoutputkan semua data yang telah di olah.
-10.Program selesai.
+10. Program selesai.
 ![flowchart](https://user-images.githubusercontent.com/56942922/69521933-b6847f80-0f92-11ea-8f5e-c488473c29db.png)
 
 ![tugas4](https://user-images.githubusercontent.com/56942922/69521966-c9974f80-0f92-11ea-9906-d6438fbd6d9e.png)
