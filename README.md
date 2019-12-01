@@ -1,4 +1,4 @@
-                                                          **PENJELASAN TUGAS 4**
+# <center> <h2>PENJELASAN TUGAS 4</h2> </center>
 
 1. Pertama buat program akan mendeklarasikan beberapa list kosong.
 2. Kemudian anda akan dimintai menginput untuk menambah list yang kosong yang dibuat tadi.
