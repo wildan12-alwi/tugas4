@@ -1,4 +1,4 @@
-# <p><center>PENJELASAN TUGAS 4</center></p1>
+# <p aligent "center">PENJELASAN TUGAS 4</p>
 
 1. Pertama buat program akan mendeklarasikan beberapa list kosong.
 2. Kemudian anda akan dimintai menginput untuk menambah list yang kosong yang dibuat tadi.
